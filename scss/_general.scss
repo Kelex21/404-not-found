@@ -1,0 +1,13 @@
+$space_mono: "Space Mono", monospace;
+$color_black: #333333;
+
+body {
+    background: #ffffff;
+    font-family: $space_mono;
+    color: $color_black;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
